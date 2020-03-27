@@ -1,11 +1,14 @@
 img {
   width: 30%;
+  padding: 10px;
 }
 
 .match {
   border-style: double;
   margin-top: 20px;
   padding: 12px;
+  background-color: azure;
+  margin-bottom: 10px;
 }
 
 .radioLabel {
@@ -14,5 +17,15 @@ img {
 
 .form-check-label {
   font-weight: normal;
+}
+
+.match h2, .match p{
+  text-align: center;
+}
+
+.jumbotron h1 {
+  font: 40px 'Pacifico', Helvetica, sans-serif;
+  color: #2b2b2b;
+  text-shadow: 3px 3px 0px rgba(0,0,0,0.1), 7px 7px 0px rgba(0,0,0,0.05);
 }
 
