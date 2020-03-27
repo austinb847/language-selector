@@ -1,3 +1,18 @@
 img {
   width: 30%;
 }
+
+.match {
+  border-style: double;
+  margin-top: 20px;
+  padding: 12px;
+}
+
+.radioLabel {
+  padding: 10px;
+}
+
+.form-check-label {
+  font-weight: normal;
+}
+
